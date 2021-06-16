@@ -1,6 +1,7 @@
 # JanPL
-Jan programming language： a new pythonic, Java-like, simple programming langugae to use it easily.   
-
+Jan programming language： a new pythonic, Java-like, simple programming langugae to use it easily.     
+(Please see [https://gitee.com/xusz-jan/JanPL] or [https://gitee.com/xusz-jan/JanPL.git].  
+Because it is very hard to use github from my computer!!!)  
 
 # 什么是？
 
